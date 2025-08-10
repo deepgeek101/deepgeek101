@@ -2,7 +2,7 @@
 <h3 align="center">Junior Developer • Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://deepchaulagain.com.np"><strong>Visit my portfolio website ➜ [your-portfolio-link.com](https://deepchaulagain.com.np)</strong></a>
+  <a href="https://deepchaulagain.com.np"><strong>Visit my portfolio website ➜ [https://deepchaulagain.com.np](https://deepchaulagain.com.np)</strong></a>
 </p>
 
 ---
@@ -64,8 +64,8 @@
 
 ## 📫 Contact & Links
 
-[🔗 LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-📧 `your-email@example.com`  
+[🔗 LinkedIn](https://www.linkedin.com/in/deep-chaulagain)  
+📧 `deep.chaulagain52@gmail.com`  
 📍 Kathmandu, Nepal  
 
 ---

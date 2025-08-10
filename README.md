@@ -2,7 +2,7 @@
 <h3 align="center">Junior Developer • Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><strong>Visit my portfolio website ➜ your-portfolio-link.com</strong></a>
+  <a href="https://deepchaulagain.com.np"><strong>Visit my portfolio website ➜ [your-portfolio-link.com](https://deepchaulagain.com.np)</strong></a>
 </p>
 
 ---

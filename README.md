@@ -70,4 +70,4 @@
 
 ---
 
-**Let's code, learn, and grow together!**
+**Let's code, learn, collaborate and grow together!**

@@ -1,36 +1,41 @@
 <h1 align="center">Hi there 👋, I'm Deep Chaulagain</h1>
-<h3 align="center">Junior Developer • Tech Explorer</h3>
+<h3 align="center">Aspiring Data Engineer • Full Stack Explorer • Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://deepchaulagain.com.np"><strong>Visit my portfolio website ➜ https://deepchaulagain.com.np</strong></a>
+  <a href="https://deepchaulagain.com.np"><strong>🌐 Portfolio ➜ deepchaulagain.com.np</strong></a>
 </p>
 
 ---
 
-🎯 I'm an enthusiastic junior developer eager to learn, grow, and build user-friendly digital products. I enjoy experimenting with different technologies, writing clean code, and improving my problem-solving skills.
+🎯 I’m a **Computer Science student** passionate about building data-driven applications and user-friendly digital products.  
+I enjoy exploring new technologies, solving real-world problems, and continuously sharpening my technical toolkit.
 
-🌱 I'm currently learning **JavaScript**, **React**, and **Node.js** to build responsive and scalable web applications.
+🌱 Currently learning and exploring:
+- **SQL & Data Engineering** → advanced queries, performance tuning, dashboards  
+- **Python OOP & Libraries** → pandas, NumPy, scikit-learn  
+- **Full Stack Development** → React, Node.js, Flask, Django, Streamlit  
+- **Cloud & Platforms** → AWS, Salesforce (Admin & Development)  
 
-💡 I love turning ideas into interactive and functional web experiences.
+💡 Interests: data analytics, backend systems, cloud solutions, and AI-driven apps.  
 
-🚧 Currently:
-- 🛠 Learning modern JavaScript frameworks
-- 🚀 Working on small personal projects to strengthen my skills
-- 🤝 Open to collaborations and learning opportunities
-- 💬 Available for internships, freelance, or remote work
-- 📚 Exploring new tools, tips, and coding best practices
-
----
-
-## 💼 Sample Projects
-
-- 📓 **Task Tracker** – A simple to-do app with filtering, priority setting, and local storage.
-- 🌐 **Portfolio Website** – Personal portfolio showcasing skills and projects.
-- 🎵 **Music Playlist App** – A basic app to create and manage custom music playlists.
+🚧 Current Focus:
+- 🛠 Building a **Sales Dashboard SQL Project**  
+- 📊 Exploring **data science + environmental impact modeling**  
+- 🚀 Enhancing my **portfolio with real-world projects**  
+- 🤝 Open to internships, freelance, or collaboration opportunities  
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Highlight Projects
+
+- ✈️ **Kafka Flight Watch** – Real-time flight tracking with Kafka, Streamlit filters, and analytics.  
+- 📓 **Task Tracker App** – To-do app with filtering, priorities, and local storage.  
+- 🌐 **Personal Portfolio** – Showcasing projects, skills, and career journey.  
+- 📊 **Sales Dashboard (in progress)** – SQL-powered insights on business KPIs.  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepgeek101&label=Profile%20views&color=0e75b6&style=flat" alt="deepgeek101" />
@@ -44,20 +49,33 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepgeek101&" alt="deepgeek101" /></p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepgeek101" alt="deepgeek101" /></a>
-</p>
-
 ---
 
 ## 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Languages & Core:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+
+**Web & Frameworks:**  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
+
+**Data & Visualization:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+
+**Cloud & Tools:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
@@ -65,9 +83,4 @@
 ## 📫 Contact & Links
 
 [🔗 LinkedIn](https://www.linkedin.com/in/deep-chaulagain)  
-📧 `deep.chaulagain52@gmail.com`  
-📍 Kathmandu, Nepal  
-
----
-
-**Let's code, learn, collaborate and grow together!**
+📧 `deep.chaulagain52@gmail.co
